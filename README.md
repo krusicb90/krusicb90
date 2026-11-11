@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bruno Krušić
 
-<!--
-**krusicb90/krusicb90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior DevOps / Platform Engineer** · 15+ years in the industry · 8 years remote with US-based teams
 
-Here are some ideas to get you started:
+I build and run cloud infrastructure for product teams: Terraform, Kubernetes, CI/CD and production monitoring. Currently doing that for clients at [Chaotica Digital](https://chaotica.digital).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,python,bash,linux" alt="Azure, Terraform, Kubernetes, Docker, GitHub Actions, Python, Bash, Linux" />
+</p>
+
+## What I do
+
+- **Infrastructure as code:** Terraform for cloud infrastructure, reviewed and validated in CI
+- **Kubernetes and GitOps:** clusters managed with Flux, with every change going through Git
+- **CI/CD:** build, test and deploy pipelines that teams can trust on a Friday
+- **Observability:** Datadog, production monitoring and incident troubleshooting
+
+## Background
+
+- Senior DevOps Engineer, Chaotica Digital (present)
+- Senior DevOps Engineer, IBM iX (2020–2021)
+- Senior DevOps Engineer, Coria (2016–2018)
+- Software Developer, Optimus Lab (2014–2016)
+
+## Contact
+
+Open to senior DevOps and platform engineering roles, full-time or contract, remote.
+
+[chaotica.digital](https://chaotica.digital)
