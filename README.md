@@ -15,6 +15,10 @@ I build and run cloud infrastructure for product teams: Terraform, Kubernetes, C
 - **CI/CD:** build, test and deploy pipelines that teams can trust on a Friday
 - **Observability:** Datadog, production monitoring and incident troubleshooting
 
+## Projects
+
+- **[terraform-modules](https://github.com/krusicb90/terraform-modules):** Terraform modules for problems that keep coming back in production work.
+
 ## Background
 
 - Senior DevOps Engineer, Chaotica Digital (present)
