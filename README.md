@@ -19,6 +19,7 @@ I build and run cloud infrastructure for product teams: Terraform, Kubernetes, C
 
 - **[terraform-modules](https://github.com/krusicb90/terraform-modules):** Terraform modules for problems that keep coming back in production work.
 - **[improved-haversine](https://github.com/krusicb90/improved-haversine):** Road distance estimates from coordinates alone, with correction factors measured on OpenStreetMap.
+- **[django-multitenant-starter](https://github.com/krusicb90/django-multitenant-starter):** Django SaaS starter where every customer gets its own PostgreSQL database, from signup to backups.
 
 ## Background
 
