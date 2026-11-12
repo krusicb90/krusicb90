@@ -18,6 +18,7 @@ I build and run cloud infrastructure for product teams: Terraform, Kubernetes, C
 ## Projects
 
 - **[terraform-modules](https://github.com/krusicb90/terraform-modules):** Terraform modules for problems that keep coming back in production work.
+- **[improved-haversine](https://github.com/krusicb90/improved-haversine):** Road distance estimates from coordinates alone, with correction factors measured on OpenStreetMap.
 
 ## Background
 
